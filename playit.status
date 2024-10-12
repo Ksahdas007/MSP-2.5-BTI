@@ -627,3 +627,10 @@ specific-ill.gl.at.ply.gg:1611 => 127.0.0.1:1611 (minecraft-bedrock)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1728695842606 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAy-ZQAAAZJ-TTdTAAAAAQAAAAEAAAAAAAAAAN2-D757B3e8MfpS0zIFEUEdjYrcPigNuM1ZRmDSsygI
+
+TUNNELS
+below-guns.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+specific-ill.gl.at.ply.gg:1611 => 127.0.0.1:1611 (minecraft-bedrock)
